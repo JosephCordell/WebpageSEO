@@ -1,7 +1,8 @@
-## Scope of project
+# HORISEON Website Refactoring
 
+## Scope of project
 ```
-GIVEN a webpage meets accessibility standards
+Update the webpage so that it meets accessibility standards
 
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -18,6 +19,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Project Links
+[GitHub Repository](https://github.com/JosephCordell/WebpageSEO)
+[Webpage](https://josephcordell.github.io/WebpageSEO/)
+
+## Screenshot of webpage
+![Screenshot of webpage.](./assets/images/webpage-refactor.png)
 
 ## Changes made
 
@@ -25,7 +32,7 @@ THEN I find a concise, descriptive title
 - Updated title
 - Updated element tags to be more semantic (Header, section, nav, aside, footer)
 - Condensed redundent CSS classes
-- Put aside images as id and background images
+- Put aside images as background images
 - Commented sections on CSS sheet
 
 
