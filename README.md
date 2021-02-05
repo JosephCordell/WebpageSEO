@@ -21,6 +21,7 @@ THEN I find a concise, descriptive title
 ```
 ## Project Links
 [GitHub Repository](https://github.com/JosephCordell/WebpageSEO)
+
 [Webpage](https://josephcordell.github.io/WebpageSEO/)
 
 ## Screenshot of webpage
